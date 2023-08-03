@@ -1,9 +1,7 @@
 # Spot-the-Bot
 This repository represents the work on Spot the Bot Project for Thai and Atikamekw languages
 
-additional resources can be found here: [Resources on google drive](https://drive.google.com/drive/folders/1UlUlQJD7eCQFL42PyB8tkrx2mkOGm2WQ?usp=sharing)
-
-
+Additional resources can be found [Here](https://drive.google.com/drive/folders/1UlUlQJD7eCQFL42PyB8tkrx2mkOGm2WQ?usp=sharing)
 
 ## Thai Language:
 
